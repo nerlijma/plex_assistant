@@ -21,7 +21,7 @@ LOCALIZE = {
             "jump_back": "jump back",
         },
 
-        # Text for errors
+        # Text for errors 
         "not_found": "not found",
         "cast_device": "cast device",
         "no_call": "No command was received.",
